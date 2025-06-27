@@ -1,0 +1,1 @@
+console.log(document.getElementsByClassName("not serious")[0].innerHTML = "RHYMES WITH GRUG")
